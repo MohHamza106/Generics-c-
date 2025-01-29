@@ -30,7 +30,7 @@ namespace Generics_c_
             #region Question 4
             //FixedSizeList<int> fixedSizeList = new FixedSizeList<int>(5);
 
-           
+
             //Console.WriteLine(fixedSizeList.add(50));
             //Console.WriteLine(fixedSizeList.add(80));  
             //Console.WriteLine(fixedSizeList.add(300));
@@ -38,9 +38,14 @@ namespace Generics_c_
             //Console.WriteLine(fixedSizeList.add(570));  
             //Console.WriteLine(fixedSizeList.add(630));  
 
-           
+
             //Console.WriteLine("Element at index 4: " + fixedSizeList.Get(4));  
 
+            #endregion
+            #region question5
+            non_repeated non_Repeated = new non_repeated();
+            //non_Repeated.nonrepeated("mohamed");
+            //non_Repeated.nonrepeated("aabbccdd");
             #endregion
         }
     }
