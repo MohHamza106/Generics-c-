@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Generics c#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
