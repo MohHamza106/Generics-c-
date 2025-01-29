@@ -18,7 +18,7 @@ namespace Generics_c_.Generic
         }
         public bool IsInRange(T value)
         {
-            return value.CompareTo (minimum) >= 0 && value.CompareTo(maximum) <= 0;
+            return value.CompareTo(minimum) >= 0 && value.CompareTo(maximum) <= 0;
         }
         public T Length()
         {

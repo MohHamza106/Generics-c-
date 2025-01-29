@@ -27,6 +27,21 @@ namespace Generics_c_
             //Console.WriteLine("Even Numbers: " + string.Join(", ", list_Of_Even.even(arr)));
 
             #endregion
+            #region Question 4
+            //FixedSizeList<int> fixedSizeList = new FixedSizeList<int>(5);
+
+           
+            //Console.WriteLine(fixedSizeList.add(50));
+            //Console.WriteLine(fixedSizeList.add(80));  
+            //Console.WriteLine(fixedSizeList.add(300));
+            //Console.WriteLine(fixedSizeList.add(460));  
+            //Console.WriteLine(fixedSizeList.add(570));  
+            //Console.WriteLine(fixedSizeList.add(630));  
+
+           
+            //Console.WriteLine("Element at index 4: " + fixedSizeList.Get(4));  
+
+            #endregion
         }
     }
 }
